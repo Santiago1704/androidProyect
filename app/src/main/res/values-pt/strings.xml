@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SALTAMAR1001942895-Parcial1</string>
+    <string name="gestion_mesas">Gestão de tabelas</string>
+    <string name="consulta_ventas">Consultas de gabinete</string>
+    <string name="agregar_producto">Adicionar produto</string>
+    <string name="total">Total</string>
+    <string name="buscar_por_mesa">Pesquisar por tabela</string>
+    <string name="buscar_por_empleado">Pesquisa por empregado</string>
+    <string name="total_mesas">Total de tabelas:</string>
+    <string name="total_mesa">Total da mesa: $%.2f</string>
+    <string name="producto_agregado">Produto adicionado por %1$s</string>
+    <string name="no_sales_for_employee">Nenhuma venda para o funcionário %1$s</string>
+    <string name="table_total_sale">Mesa %1$d: Total de vendas = $%2$.2f</string>
+    <string name="total_of_all_tables">Total de todas as mesas: $%1$.2f</string>
+    <string name="btn_search_by_table">Buscar por Mesa</string>
+    <string name="btn_search_by_employee">Buscar por Funcionário</string>
+
+</resources>
